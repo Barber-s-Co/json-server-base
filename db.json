@@ -7,5 +7,19 @@
       "age": 38,
       "id": 1
     }
-  ]
+   
+  ],
+
+  "services": [
+    {
+      "Name": "barba",
+      "price": "10,00",
+      "userId": 3,
+      "id": 1
+    }
+  ],
+
+  "available": [],
+  
+  "scheduling": []
 }

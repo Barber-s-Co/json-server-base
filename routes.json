@@ -1,3 +1,6 @@
 {
-  "users": 600
+  "users": 600,
+  "services": 644,
+  "available": 644,
+  "scheduling":644
 }
